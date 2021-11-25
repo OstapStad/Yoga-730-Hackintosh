@@ -30,6 +30,7 @@
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
+- To activate AppleID and other iServices you need to edit the "config.plist" file. Follow [this](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) guide
 
 # FAQ:
 - Q: Touchpad not work on First boot?
