@@ -26,7 +26,7 @@
 - Switch RAID to AHCI (Configuration -> SATA Controller Mode)
 
 # Misc after install:
-- [Enable HiDPI](https://github.com/xzhih/one-key-hidpi):
+- [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) (Has issues with boot logo):
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
